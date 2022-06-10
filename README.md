@@ -1,2 +1,2 @@
-# SSTConcurso
-Concurso de seguridad y salud en el trabajo HQ5
+# HQ5Concurso
+Pagina diseñada para mostrar en tiempo real los resultados de una competencia interna de una empresa 
